@@ -1,4 +1,3 @@
-#Jenkins File
 pipeline{
     tools{
         jdk 'java8'
